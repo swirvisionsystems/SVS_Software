@@ -1,4 +1,4 @@
-![SWIR Logo](https://cdn-ilafmlf.nitrocdn.com/tzSjtAOdSSFJtXENMNPnbKUPVKnbsEjJ/assets/images/optimized/rev-ef87941/www.swirvisionsystems.com/wp-content/uploads/2023/09/SWIR_LOGO_RED_WHITE_Reg-330w-300x74-1.png.webp) an **onsemi** company
+SWIR Vision Systems, an **onsemi** company
 
 # SWIR Vision Systems Software
 Repository for the SWIR Vision Systems software suite.
